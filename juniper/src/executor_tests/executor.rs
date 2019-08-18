@@ -1153,4 +1153,6 @@ mod named_operations {
 
         assert_eq!(err, GraphQLError::UnknownOperationName);
     }
+
 }
+
